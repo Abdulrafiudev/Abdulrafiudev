@@ -1,4 +1,3 @@
-<img src="./SAVE_20240410_180936.jpg" alt="developer" width="100%" height="10%"/>
 <h1 align="center">Hi 👋, I'm Abdulrafiu Ibrahim</h1>
 <h3 align="center">A fullstack developer from Abuja Nigeria.</h3>
 
